@@ -1,6 +1,6 @@
 import { Routes, Route, Link } from "react-router-dom";
 import ProductList from "./pages/ProductList";
-import ProductDetails from "./pages/ProductDetails";
+import ProductDetails from "./pages/Productdetails";
 
 const App = () => {
   return (
